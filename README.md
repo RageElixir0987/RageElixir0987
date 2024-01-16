@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Generative AI From SMIT
 - 💬 Ask me about HTML,CSS,JAVASCRIPT
 - 😄 Pronouns: He/Him
-- 📧 RageElixir0987@gmail.com
+- 📧 Gmail: RageElixir0987@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-hassnain-557bb4297/
+- 📸 Instagram:https://www.instagram.com/techcodecrafters?igsh=MTFicXowamFqdW1iZg==
 
 <h2>Tech Stack</h2>
 <table width="100">
